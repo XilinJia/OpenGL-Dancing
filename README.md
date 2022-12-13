@@ -1,7 +1,9 @@
  
  # OpenGL Dancing
  
- This work was developed based on [this project](https://github.com/emeiri/ogldev).  To build it from source, the former project is needed to to cloned first and then this project is cloned into the root directory of the former.
+#### “And those who were seen dancing were thought to be insane by those who could not hear the music.” — Friedrich Nietzsche
+
+This work was developed based on [this project](https://github.com/emeiri/ogldev).  To build it from source, the former project is needed to to cloned first and then this project is cloned into the root directory of the former.
  
  ## Videos
  
