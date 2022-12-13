@@ -1,9 +1,15 @@
  
- # OpenGL Dancing
+# OpenGL Dancing
  
 #### “And those who were seen dancing were thought to be insane by those who could not hear the music.” — Friedrich Nietzsche
 
-This work was developed based on [this project](https://github.com/emeiri/ogldev).  To build it from source, the former project is needed to to cloned first and then this project is cloned into the root directory of the former.
+This work was developed based on [this project](https://github.com/emeiri/ogldev).  To build it from source, the former project is needed to to cloned first and then this project is cloned into the root directory of the former.  The following libraries are needed on Ubuntu 22.04:
+
+<pre><code>apt install g++ make freeglut3 freeglut3-dev libglew-dev libglew2.2 libmagick++-dev libassimp-dev libglfw3 libglfw3-dev </code></pre>
+
+After installing all the libraries and building the base project, run the following command in this root directory to build the executable.
+
+<pre><code>./build.sh</code></pre>
  
  ## Videos
  
